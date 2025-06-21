@@ -69,19 +69,6 @@ This project uses the **ToN_IoT Datasets** provided by UNSW Sydney.
   <li>Missing values heatmap</li>
 </ul>
 
-<h2>🚀 How to Run</h2>
-
-<ol>
-  <li>Clone the repository:</li>
-  <pre><code>git clone https://github.com/Ons-IT/Cyber-Threat-Classification-Using-Machine-Learning-Models.git
-cd Cyber-Threat-Classification-Using-Machine-Learning-Models</code></pre>
-
-  <li>Install dependencies:</li>
-  <pre><code>pip install -r requirements.txt</code></pre>
-
-  <li>Run the notebook:</li>
-  <pre><code>jupyter notebook Cyber_Threat_Classification_.ipynb</code></pre>
-</ol>
 
 <h2>📈 Future Improvements</h2>
 <ul>
