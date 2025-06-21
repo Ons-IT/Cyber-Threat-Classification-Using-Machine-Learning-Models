@@ -17,8 +17,7 @@
 This project uses the **ToN_IoT Datasets** provided by UNSW Sydney.
 
 - **Citation**:  
-  UNSW Sydney. (n.d.). ToN_IoT Datasets. UNSW Research. Retrieved from:
-https://re-search.unsw.edu.au/projects/toniot-datasets
+  UNSW Sydney. (n.d.). ToN_IoT Datasets. UNSW Research. Retrieved from https://re-search.unsw.edu.au/projects/toniot-datasets
 
 - **Note**:  
   The dataset is not included in this repository due to size and licensing restrictions. Please visit the link above to download the data directly from the official source.
