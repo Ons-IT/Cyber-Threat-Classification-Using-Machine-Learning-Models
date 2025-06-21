@@ -12,7 +12,7 @@
   This project focuses on identifying and classifying cyber attacks from network traffic data. Using multiple machine learning algorithms, we analyze patterns in features and build predictive models to differentiate between normal and malicious behavior.
 </p>
 
-<h2>📊 Dataset Reference<h2>
+<h2>📊 Dataset Reference</h2>
 
 This project uses the **ToN_IoT Datasets** provided by UNSW Sydney.
 
@@ -32,7 +32,7 @@ This project uses the **ToN_IoT Datasets** provided by UNSW Sydney.
   <li>Matplotlib & Seaborn</li>
 </ul>
 
-</pre>
+
 
 <h2>🔍 Features</h2>
 <ul>
@@ -73,14 +73,14 @@ This project uses the **ToN_IoT Datasets** provided by UNSW Sydney.
 
 <ol>
   <li>Clone the repository:</li>
-  <pre><code>git clone https://github.com/yourusername/Cyber_Threat_Classification.git
-cd Cyber_Threat_Classification</code></pre>
+  <pre><code>git clone https://github.com/Ons-IT/Cyber-Threat-Classification-Using-Machine-Learning-Models.git
+cd Cyber-Threat-Classification-Using-Machine-Learning-Models</code></pre>
 
   <li>Install dependencies:</li>
   <pre><code>pip install -r requirements.txt</code></pre>
 
   <li>Run the notebook:</li>
-  <pre><code>jupyter notebook Cyber_Threat_Classification_(1).ipynb</code></pre>
+  <pre><code>jupyter notebook Cyber_Threat_Classification_.ipynb</code></pre>
 </ol>
 
 <h2>📈 Future Improvements</h2>
